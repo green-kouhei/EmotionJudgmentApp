@@ -5,4 +5,5 @@ package jp.ac.fjb.x15g020.emotionjudgmentapp.View;
  */
 
 public class emotion_title_tiew {
+
 }

@@ -58,7 +58,7 @@
                 android:layout_marginLeft="20dp"
                 android:background="00000000"
                 android:scaleType="fitCenter"
-                app:srcCompat="@drawable/Earth" />
+                app:srcCompat="@drawable/earth" />
 
             <ImageButton
                 android:id="@+id/ka"
