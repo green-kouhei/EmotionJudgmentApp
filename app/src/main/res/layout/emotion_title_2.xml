@@ -49,7 +49,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_marginTop="30dp"
-                    android:background="00000000"
+                    android:background="#000000"
                     android:text="冒険に出発！" />
 
             </LinearLayout>
@@ -71,7 +71,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="1"
-                        android:background="00000000"
+                        android:background="#000000"
                         app:srcCompat="@android:drawable/ic_menu_help" />
 
                     <LinearLayout

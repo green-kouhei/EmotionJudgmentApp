@@ -47,7 +47,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_marginTop="70dp"
-                android:background="00000000"
+                android:background="#000000"
                 app:srcCompat="@drawable/start"
                 android:layout_weight="0.02" />
         </LinearLayout>

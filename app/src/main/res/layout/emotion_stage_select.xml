@@ -30,9 +30,9 @@
                 android:layout_height="52dp"
                 android:layout_marginLeft="60dp"
                 android:layout_marginTop="10dp"
-                android:background="00000000"
+                android:background="#000000"
                 android:scaleType="fitCenter"
-                app:srcCompat="@drawable/Mercury"
+                app:srcCompat="@drawable/mercury"
                 android:layout_weight="0.04" />
 
             <ImageButton
@@ -40,9 +40,9 @@
                 android:layout_width="84dp"
                 android:layout_height="65dp"
                 android:layout_marginTop="20dp"
-                android:background="00000000"
+                android:background="#000000"
                 android:scaleType="fitCenter"
-                app:srcCompat="@drawable/Venus" />
+                app:srcCompat="@drawable/venus" />
         </LinearLayout>
 
         <LinearLayout
@@ -56,7 +56,7 @@
                 android:layout_width="134dp"
                 android:layout_height="80dp"
                 android:layout_marginLeft="20dp"
-                android:background="00000000"
+                android:background="#000000"
                 android:scaleType="fitCenter"
                 app:srcCompat="@drawable/earth" />
 
@@ -66,9 +66,9 @@
                 android:layout_height="65dp"
                 android:layout_marginLeft="10dp"
                 android:layout_marginTop="50dp"
-                android:background="00000000"
+                android:background="#000000"
                 android:scaleType="fitCenter"
-                app:srcCompat="@drawable/Mars" />
+                app:srcCompat="@drawable/mars" />
         </LinearLayout>
 
         <LinearLayout
@@ -80,18 +80,18 @@
                 android:id="@+id/moku"
                 android:layout_width="125dp"
                 android:layout_height="119dp"
-                android:background="00000000"
+                android:background="#000000"
                 android:scaleType="fitCenter"
-                app:srcCompat="@drawable/Jupiter" />
+                app:srcCompat="@drawable/jupiter" />
 
             <ImageButton
                 android:id="@+id/do"
                 android:layout_width="149dp"
                 android:layout_height="99dp"
                 android:layout_marginTop="60dp"
-                android:background="00000000"
+                android:background="#000000"
                 android:scaleType="fitCenter"
-                app:srcCompat="@drawable/Saturn" />
+                app:srcCompat="@drawable/saturn" />
         </LinearLayout>
 
         <LinearLayout
@@ -106,18 +106,18 @@
                 android:layout_height="156dp"
                 android:layout_marginLeft="20dp"
                 android:layout_weight="0.11"
-                android:background="00000000"
+                android:background="#000000"
                 android:scaleType="fitCenter"
-                app:srcCompat="@drawable/Uranus" />
+                app:srcCompat="@drawable/uranus" />
 
             <ImageButton
                 android:id="@+id/kai"
                 android:layout_width="111dp"
                 android:layout_height="85dp"
                 android:layout_marginTop="70dp"
-                android:background="00000000"
+                android:background="#000000"
                 android:scaleType="fitCenter"
-                app:srcCompat="@drawable/Neptune" />
+                app:srcCompat="@drawable/neptune" />
 
         </LinearLayout>
     </LinearLayout>
